@@ -1,0 +1,25 @@
+{
+  "name": "youtube-video",
+  "version": "1.0.0",
+  "description": "Let's change youtube title, comments and thumbnail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4yankp/youtube-video.git"
+  },
+  "author": "Mayank Kushwaha (Tech With MK)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m4yankp/youtube-video/issues"
+  },
+  "homepage": "https://github.com/m4yankp/youtube-video#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-auth-library": "^6.1.3",
+    "googleapis": "^66.0.0",
+    "jimp": "^0.16.1"
+  }
+}
